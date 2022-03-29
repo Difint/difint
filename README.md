@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yarm-tools
+- 👋 Hi, I’m @difint
 - 👀 I’m interested in requirements management
 - 🌱 I’m currently learning web3 to implement automated sharing of requiremens and specifications across different organizations
 - 💞️ I’m looking to collaborate on opensource requirements management tools
