@@ -5,6 +5,7 @@
 - So I'm working on opensource solutions for space exploration
 - My interestes are: _space exploration, moon, robotics, ai, requirements management, web3, ipfs, day, marketing, hardware & software development, social impact of web3 and cryptocurrencies on the world, science, math
 _
+
 **You can support me**:
 
 ETH: 0xA64f2228cceC96076c82abb903021C33859082F8
