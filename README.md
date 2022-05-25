@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @difint
-- 👀 I'm professional 🚀**space**🚀 engineer. 
+👋 Hi, I’m @difint
+👀 I'm professional 🚀**space**🚀 engineer.
 
+A bit about my exp:
 - Expirience in marketing, business development
 - B2C SW development, games, robotic missions
 - Master in Math and Computer Science 
@@ -9,6 +10,7 @@
 - Experience managing development of spacecraft on European continent and the US
 - Familiar with PUGs of Astrobotic, Intuitive Machines, Masten, iSpace, SpaceX
 - Familiar with NASA standards and procedures
+- Exp with crypto (I've read Bitcoin & Eth WP and understood :D)
 
 - My interestes are: _space exploration, moon, robotics, ai, requirements management, web3, ipfs, day, marketing, hardware & software development, social impact of web3 and cryptocurrencies on the world, science, math
 
