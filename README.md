@@ -3,7 +3,7 @@
 👀 Professional 🚀**space**🚀 engineer
 
 My exp:
-- Expirience in marketing, business development
+- Expirience in marketing, business development, startups
 - B2C SW development, games, robotic missions
 - Master in Math and Computer Science 
 - 4 years professional space engineer
