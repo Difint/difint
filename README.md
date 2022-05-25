@@ -6,13 +6,13 @@ A bit about my exp:
 - B2C SW development, games, robotic missions
 - Master in Math and Computer Science 
 - 4 years professional space engineer
-- A few week ago product that I managed was integrated to a lunar lander that is flying to the Moon under CLPS program
+- Managed development and integration of a product that is ridesharing Moon flight with one of the CLPS missions
 - Experience managing development of spacecraft on European continent and the US
 - Familiar with PUGs of Astrobotic, Intuitive Machines, Masten, iSpace, SpaceX
 - Familiar with NASA standards and procedures
 - Exp with crypto (I've read Bitcoin & Eth WP and understood :D)
 
-- My interestes are: _space exploration, moon, robotics, ai, requirements management, web3, ipfs, day, marketing, hardware & software development, social impact of web3 and cryptocurrencies on the world, science, math
+Interestes: _space exploration, moon, robotics, ai, requirements management, web3, ipfs, day, marketing, hardware & software development, social impact of web3 and cryptocurrencies on the world, science, math_
 
 
 **You can support me**:
