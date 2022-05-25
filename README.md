@@ -1,7 +1,8 @@
-👋 Hi, I’m @difint
-👀 I'm professional 🚀**space**🚀 engineer.
+👋 Hi, I’m @Difint
 
-A bit about my exp:
+👀 Professional 🚀**space**🚀 engineer
+
+My exp:
 - Expirience in marketing, business development
 - B2C SW development, games, robotic missions
 - Master in Math and Computer Science 
