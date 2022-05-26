@@ -5,8 +5,8 @@
 My exp:
 - Expirience in marketing, business development, startups
 - B2C SW development, games, robotic missions
-- Master in Math and Computer Science 
-- 4 years professional space engineer
+- Master Degree in Math and Computer Science 
+- 4 years as professional space engineer
 - Managed development and integration of a product that is ridesharing Moon flight with one of the CLPS missions
 - Experience managing development of spacecraft on European continent and the US
 - Familiar with PUGs of Astrobotic, Intuitive Machines, Masten, iSpace, SpaceX
