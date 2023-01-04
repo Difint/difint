@@ -1,4 +1,4 @@
-👋 Hi, I’m @Difint
+👋 Hi, Rod Mamin aka Difint
 
 👀 Professional 🚀**space**🚀 engineer
 
